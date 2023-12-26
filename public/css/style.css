@@ -1,0 +1,34 @@
+.endpoints-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-item {
+  border: 1px solid #dee2e6;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f8f9fa;
+}
+
+.http-method {
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.get {
+  background-color: #6cb249;
+  color: #fff;
+}
+.post {
+  background-color: #61dafb;
+  color: #fff;
+}
+.put {
+  background-color: #49a4e1;
+  color: #fff;
+}
+.delete {
+  background-color: #f66;
+  color: #fff;
+}
